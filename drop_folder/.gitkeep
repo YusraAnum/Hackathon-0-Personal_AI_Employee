@@ -1,0 +1,13 @@
+# Drop Folder
+#
+# Drop files here for the AI Employee to process.
+# The File System Watcher monitors this folder and creates
+# action items in the Needs_Action folder.
+#
+# Supported file types:
+# - Documents: PDF, DOC, DOCX, TXT
+# - Spreadsheets: XLS, XLSX, CSV
+# - Images: JPG, PNG, GIF, SVG
+# - Archives: ZIP, RAR, 7Z
+#
+# Files are processed based on rules in Company_Handbook.md
